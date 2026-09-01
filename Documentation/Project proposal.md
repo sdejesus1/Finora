@@ -70,7 +70,7 @@ One of the most important goals of Finora is to help students distinguish betwee
 * Operating system: Windows.  
 * IDE: Visual Studio Code.  
 * Languages: TypeScript, CSS, HTML, and SQL.  
-* 3rd party frameworks:   
+* 3rd party frameworks: Bootstrap
 * Database and authentication: Supabase  
 * Server software: React, [Next.js](http://Next.js) and Vercel.  
 * Communication software: Discord and text message.  
