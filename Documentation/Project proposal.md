@@ -87,5 +87,6 @@ Finora's backend will be handled with Supabase. Supabase's postgreSQL database w
 **AI Statement**
 
 **Team Backgrounds**
+	Samuel Martin: Some experience in designing databases and writing SQL. Never formally learned CSS or HTML, but has used them alongside Bootstrap to create a functioning webpage. No experience with Supabase, Vercel, or any equivalent tool.
 
 **Dependencies, Limitations, Risks**
