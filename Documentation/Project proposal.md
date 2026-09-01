@@ -80,7 +80,7 @@ One of the most important goals of Finora is to help students distinguish betwee
 
 **Server Info**
 
-	Finora’s backend will be handled with Supabase. Supabase’s postgreSQL database will be used to store any necessary user information. Supabase will also be used to handle user authentication.
+Finora's backend will be handled with Supabase. Supabase's postgreSQL database will be used to store any necessary user information. Supabase will also be used to handle user authentication.
 
 **Data Sources**
 
