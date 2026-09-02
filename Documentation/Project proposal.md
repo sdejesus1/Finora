@@ -84,6 +84,7 @@ Finora's backend will be handled with Supabase. Supabase's postgreSQL database w
 ### Data Sources
 
 ### AI Statement
+We plan on using AI primarily as an advisory source and to bounce ideas off of.  We plan on using ChatGPT's free plan.
 
 ### Team Backgrounds
 
