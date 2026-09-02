@@ -92,6 +92,10 @@ We plan on using AI primarily as an advisory source and to bounce ideas off of. 
 
 **Samuel Martin:** Some experience in designing databases and writing SQL. Never formally learned CSS or HTML, but has used them alongside Bootstrap to create a functioning webpage. No experience with Supabase, Vercel, or any equivalent tool.
 
-**William Hite:** I haven't really used Visual Stuido code or SQL, but I have a basic familiarity with HTML and CSS.  I have not used React, Next.js, or Vercel.
+**William Hite:** I haven't really used Visual Studio code or SQL, but I have a basic familiarity with HTML and CSS.  I have not used React, Next.js, or Vercel.
 
 ### Dependencies, Limitations, Risks
+
+**Supabase:** The zero dollar per month plan for Supabase access provides unlimited API requests, a five hundred megabyte database, supports fifty thousand monthly active users, allows five gigabyte data egress, and one gigabyte of file storage. This should be more than suitable for Finora initially, expansion should only be required if development continues past the fall semester. In the event that we do run into issues due to Supabase, we can upgrade to the twenty five dollar a month plan which offers several times the speed and storage.
+
+**Vercel:** Vercel's hobby plan allows one million edge requests and one hundred gigabytes of fast data transfer a month. This should be enough to get Finora to function. If it is not, we could upgrade to the pro plan for twenty dollars or use an alternative hosting site like Cloudflare, HostGator, or GoDaddy.
