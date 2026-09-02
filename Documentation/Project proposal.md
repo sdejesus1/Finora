@@ -88,6 +88,8 @@ Finora's backend will be handled with Supabase. Supabase's postgreSQL database w
 
 **Team Backgrounds**
 
+Wilfredo Cedano Ventura: I have experience using Visual Studio code, TypeScript and SQL. Have basic understanding on HTML and CSS. No experience with React, Next.js and Vercel.
+
 Samuel Martin: Some experience in designing databases and writing SQL. Never formally learned CSS or HTML, but has used them alongside Bootstrap to create a functioning webpage. No experience with Supabase, Vercel, or any equivalent tool.
 
 **Dependencies, Limitations, Risks**
