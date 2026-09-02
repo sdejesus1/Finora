@@ -22,7 +22,7 @@ Finora will also place an emphasis on planning rather than only reviewing money 
 One of the most important goals of Finora is to help students distinguish between the total amount of money they currently have and the amount they can afford to spend. A bank account by itself does not necessarily provide an accurate representation of a person's financial freedoms. Finora will account for the students financial responsibilities when presenting the user’s available funds. This will provide a clearer picture of how much money remains after considering necessary and expected expenses, helping prevent money reserved for obligations from being unnecessarily spent. 
 
 **Features List**   
-	**Must Have By The End of the Semester**
+   **Must Have By The End of the Semester**
 
 | User Account and Login | Create a personal account, log in, log out, and keep financial information associated with their account. |
 | :---- | :---- |
@@ -40,7 +40,7 @@ One of the most important goals of Finora is to help students distinguish betwee
 | **Financial Warnings** | Warn the user when they are approaching or exceeding a budget or when their spending is greater than their income. |
 | **Search and filtering**  | Users will be able to search and filter transactions by criteria such as date, category, and transaction type.  |
 
-**Will Have if There is Time**
+   **Will Have if There is Time**
 
 | Debt Tracking | Enter student loans, credit cards, car loans, and other debts and monitor the remaining balances.  |
 | :---- | :---- |
@@ -54,8 +54,8 @@ One of the most important goals of Finora is to help students distinguish betwee
 | **Financial Health Summary**  | Give the user a simple summary based on factors such as spending relative to income, savings progress, and budget adherence.  |
 | **Simple Financial Tips** | Provide relevant educational suggestions when certain patterns occur, such as consistently exceeding a food or entertainment budget.  |
 
-**Unable to implement during the semester**
-
+   **Unable to implement during the semester**
+	
 | Automatic Back Account Connection | Automatically retrieves account balance and transactions rather than requiring manual entries. |
 | :---- | :---- |
 | **Automatic Transaction Categorization** | Determine transaction categories based on transaction information.  |
@@ -64,7 +64,7 @@ One of the most important goals of Finora is to help students distinguish betwee
 | **Receipt Scanning** | Allow users to capture receipts and automatically create expense entries from them. |
 | **Predictive Financial Planning** | Estimate future balances and warn users about potential shortages before they occur. |
 
-**6\. Initial Set of Technologies** 
+**Initial Set of Technologies** 
 
 * Platform: Web application for desktop and phone.  
 * Operating system: Windows.  
