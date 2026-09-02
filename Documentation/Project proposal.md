@@ -1,14 +1,13 @@
-**Project Name:**  
-Finora  
+## Finora  
 **Team:**  
 Samuel Martin, Steven De Jesus, Wilfredo Cedano Ventura, William Hite
 
-**Abstract**  
+### Abstract  
 As inflation rises, managing finances has become increasingly difficult, especially for college students who may have limited or inconsistent sources of income. Finora is intended to help lessen this burden by providing a student-focused financial management system. Its primary purpose is to help college students better understand their financial situation, manage their available funds, and develop responsible spending and saving habits.
 
 Through Finora, students will be able to track and categorize their expenses and income, including wages, financial aid, scholarships, and other sources of funds. Students will also be able to view detailed spending breakdowns, create budgets, establish savings goals, and monitor their financial progress. One of Finora's key features will be financial warnings that help students understand how much money remains available after accounting for recurring and nonrecurring expenses. By providing a clearer view of where their money is going and how much they can safely spend, Finora aims to help students balance their everyday needs and wants while maintaining better control of their finances.
 
-**Description**  
+### Description  
 As the cost of everyday necessities continues to rise, managing finances has become increasingly challenging. College students are being particularly affected by these challenges as they often have limited income while still shouldering a variety of expenses. Many students work part-time while attending school, which can limit the income they produce. At the same time, expenses such as housing, food, transportation, tuition, textbooks, school supplies, subscriptions, and entertainment can quickly consume their available capital. Students may also have limited independent experience managing their finances, making it difficult to determine how much can be safely spent while still preparing for future expenses. 
 
 The financial situation of a college student also differs from that of someone working a traditional full time job. While some students receive regular income from employment, others rely on a combination of part time work, financial aid, scholarships, family assistance, along with other, possibly irregular, sources of income. Without proper planning, funds intended to support the student throughout the semester may be spent too quickly, potentially leading to financial difficulties.
@@ -21,7 +20,7 @@ Finora will also place an emphasis on planning rather than only reviewing money 
 
 One of the most important goals of Finora is to help students distinguish between the total amount of money they currently have and the amount they can afford to spend. A bank account by itself does not necessarily provide an accurate representation of a person's financial freedoms. Finora will account for the students financial responsibilities when presenting the user’s available funds. This will provide a clearer picture of how much money remains after considering necessary and expected expenses, helping prevent money reserved for obligations from being unnecessarily spent. 
 
-**Features List**   
+### Features List 
    **Must Have By The End of the Semester**
 
 | User Account and Login | Create a personal account, log in, log out, and keep financial information associated with their account. |
@@ -64,7 +63,7 @@ One of the most important goals of Finora is to help students distinguish betwee
 | **Receipt Scanning** | Allow users to capture receipts and automatically create expense entries from them. |
 | **Predictive Financial Planning** | Estimate future balances and warn users about potential shortages before they occur. |
 
-**Initial Set of Technologies** 
+### Initial Set of Technologies
 
 * Platform: Web application for desktop and phone.  
 * Operating system: Windows.  
@@ -78,20 +77,20 @@ One of the most important goals of Finora is to help students distinguish betwee
 * how the team plans to use AI:  
   * All team members will use the same ChatGPT’s Free plan.
 
-**Server Info**
+### Server Info
 
 Finora's backend will be handled with Supabase. Supabase's postgreSQL database will be used to store any necessary user information. Supabase will also be used to handle user authentication.
 
-**Data Sources**
+### Data Sources
 
-**AI Statement**
+### AI Statement
 
-**Team Backgrounds**
+### Team Backgrounds
 
-Wilfredo Cedano Ventura: I have experience using Visual Studio code, TypeScript and SQL. Have basic understanding on HTML and CSS. No experience with React, Next.js and Vercel.
+**Wilfredo Cedano Ventura:** I have experience using Visual Studio code, TypeScript and SQL. Have basic understanding on HTML and CSS. No experience with React, Next.js and Vercel.
 
-Samuel Martin: Some experience in designing databases and writing SQL. Never formally learned CSS or HTML, but has used them alongside Bootstrap to create a functioning webpage. No experience with Supabase, Vercel, or any equivalent tool.
+**Samuel Martin:** Some experience in designing databases and writing SQL. Never formally learned CSS or HTML, but has used them alongside Bootstrap to create a functioning webpage. No experience with Supabase, Vercel, or any equivalent tool.
 
-William Hite: I haven't really used Visual Stuido code or SQL, but I have a basic familiarity with HTML and CSS.  I have not used React, Next.js, or Vercel.
+**William Hite:** I haven't really used Visual Stuido code or SQL, but I have a basic familiarity with HTML and CSS.  I have not used React, Next.js, or Vercel.
 
-**Dependencies, Limitations, Risks**
+### Dependencies, Limitations, Risks
