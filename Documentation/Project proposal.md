@@ -92,4 +92,6 @@ Wilfredo Cedano Ventura: I have experience using Visual Studio code, TypeScript 
 
 Samuel Martin: Some experience in designing databases and writing SQL. Never formally learned CSS or HTML, but has used them alongside Bootstrap to create a functioning webpage. No experience with Supabase, Vercel, or any equivalent tool.
 
+William Hite: I haven't really used Visual Stuido code or SQL, but I have a basic familiarity with HTML and CSS.  I have not used React, Next.js, or Vercel.
+
 **Dependencies, Limitations, Risks**
