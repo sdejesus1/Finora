@@ -96,6 +96,8 @@ We plan on using AI primarily as an advisory source and to bounce ideas off of. 
 
 ### Dependencies, Limitations, Risks
 
+While chunks of the project can be devloped simultaniously, like and visual appearance of the webpage and the structure of the database, we will be unable to test the functionality of Finora until a large portion of the database, server, and webpage are complete. There is nothing that can really be done to address this risk. What we can do is plan extensively so that each piece of Finora can continue development for as long as possible while we wait on whichever piece ends up taking the longest. For example, we can figure out exactly what user data will need to be stored before writing a single line of code, allowing some members of the group to design and implement the entire database even if it takes signifigantly longer to figure out Supabase or the HTML of the webpage.
+
 **Supabase:** The zero dollar per month plan for Supabase access provides unlimited API requests, a five hundred megabyte database, supports fifty thousand monthly active users, allows five gigabyte data egress, and one gigabyte of file storage. This should be more than suitable for Finora initially, expansion should only be required if development continues past the fall semester. In the event that we do run into issues due to Supabase, we can upgrade to the twenty five dollar a month plan which offers several times the speed and storage.
 
 **Vercel:** Vercel's hobby plan allows one million edge requests and one hundred gigabytes of fast data transfer a month. This should be enough to get Finora to function. If it is not, we could upgrade to the pro plan for twenty dollars or use an alternative hosting site like Cloudflare, HostGator, or GoDaddy.
