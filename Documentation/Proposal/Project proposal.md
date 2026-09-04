@@ -79,9 +79,11 @@ One of the most important goals of Finora is to help students distinguish betwee
 
 ### Server Info
 
-Finora’s backend will be handled with Supabase. Supabase’s PostgreSQL database will be used to store any necessary user information. Supabase will also be used to handle user authentication.
+Finora’s backend will hosted by Supabase. Supabase’s PostgreSQL database will be used to store any necessary user information. Supabase will also be used to handle user authentication.
 
 ### Data Sources
+
+Since Finora will be used to track users' finacial status and help them budget, it will require access to users' finacial data. Finora will not have direct access to users' bank information, as that is outside the scope of the project for this semester, so Finora will instead use data entered manually by the user. There will be no initial data set, only what users give the website after it is live.
 
 ### AI Statement
 We plan on using AI primarily as an advisory source and to bounce ideas off of.  We plan on using ChatGPT’s free plan.
@@ -102,7 +104,7 @@ While chunks of the project can be developed simultaneously, like the visual app
 
    * Supabase: The zero-dollar-per-month plan for Supabase access provides unlimited API requests, a five-hundred-megabyte database, supports fifty thousand monthly active users, allows five gigabytes of data egress, and one gigabyte of file storage. This should be more than suitable for Finora initially; expansion should only be required if development continues past the fall semester. In the event that we do run into issues due to Supabase, we can upgrade to the twenty-five-dollar-a-month plan, which offers several times the speed and storage.
 
-   * Vercel: Vercel’s hobby plan allows one million edge requests and one hundred gigabytes of fast data transfer a month. This should be enough to get Finora to function. If it is not, we could upgrade to the pro plan for twenty dollars or use an alternative hosting site like Cloudflare, HostGator, or GoDaddy.
+   * Vercel: Vercel’s hobby plan allows one million edge requests and one hundred gigabytes of fast data transfer a month. This should be enough to get Finora to function. If it is not, we could upgrade to the pro plan for twenty dollars.
 
    * Team Experience: Each member of the team is missing knowledge and skills that are essential to the creation of Finora. For example, it seems that no one has experience with Supabase. Since Supabase is going to be an important component of the project, this is a large problem. In this particular case, one or more group members will have to learn how to use Supabase using YouTube videos and AI. In other cases, we will assign group members to the parts of the project they already have some experience with in order to maximize the time spent working on Finora instead of learning a skill someone else in the group already has.
 
