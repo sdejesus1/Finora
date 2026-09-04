@@ -117,3 +117,5 @@ While chunks of the project can be developed simultaneously, like the visual app
    * Integration Risk: Different features may work independently but fail when combined. The team will integrate features throughout development rather than developing every portion independently and combining them only near the end of the semester.
 
    * Schedule Risk: A semester provides a limited development period. Unexpected technical problems or underestimated features could cause the project to fall behind schedule. To avoid this situation, the team will prioritize the required feature list and monitor progress throughout the semester.
+
+   * Deployment Risk: The deployment of a new website may experience unexpected downtime, security vulnerabilities, configuration errors, and broken user features. To avoid this situation, the team will deploy an early version for testing before the project is complete.
