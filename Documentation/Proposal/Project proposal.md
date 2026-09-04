@@ -103,9 +103,8 @@ We plan to use AI primarily as an advisory resource and to bounce ideas off of. 
 **William Hite:** I haven’t really used Visual Studio Code or SQL, but I have a basic familiarity with HTML and CSS. I have not used React, Next.js, or Vercel.
 
 **Steven De Jesus** I have moderate experience using Visual Studio Code and SQL, along with a basic understanding of Typescript and CSS. No experience with React, NextJS, or Vercel.
-### Dependencies, Limitations, Risks
 
-**Limitations:**
+### Dependencies and Limitations:
 
 While chunks of the project can be developed simultaneously, such as the webpage's visual appearance and the database's structure, we will be unable to test Finora's functionality until a large portion of the database, server, and webpage is complete. There is nothing that can really be done to address this risk. What we can do is plan extensively so that each piece of Finora can continue development for as long as possible while we wait on whichever piece ends up taking the longest. For example, we can determine exactly what user data needs to be stored before writing a single line of code, allowing some members of the group to design and implement the entire database, even if it takes significantly longer to figure out Supabase or the webpage's HTML.
 
@@ -115,7 +114,7 @@ While chunks of the project can be developed simultaneously, such as the webpage
 
    * Team Experience: Each member of the team is missing knowledge and skills that are essential to the creation of Finora. For example, it seems that no one has experience with Supabase. Since Supabase will be an important component of the project, this is a significant problem. In this particular case, one or more group members will need to learn to use Supabase through YouTube videos and AI. In other cases, we will assign group members to the parts of the project they already have some experience with to maximize the time spent working on Finora rather than learning a skill someone else in the group already has.
 
-**Risks:**
+### Risks:
 
    * Calculation Errors: Finora will perform calculations involving income, expenses, budget limits, and savings goals. Incorrect calculations could make the information presented to users misleading. To avoid this situation, the team will create tests for important financial calculations.
 
