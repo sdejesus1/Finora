@@ -79,7 +79,7 @@ One of Finora's most important goals is to help students distinguish between the
 
 ### Server Info
 
-Finora’s backend will be hosted by Supabase. Supabase’s PostgreSQL database will be used to store any necessary user information. Supabase will also be used to handle user authentication.
+Finora’s backend will be hosted by Supabase using the free plan. Supabase’s PostgreSQL database will be used to store any necessary user information. Supabase will also be used to handle user authentication.
 
 ### Data Sources
 
