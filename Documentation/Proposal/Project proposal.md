@@ -2,12 +2,12 @@
 **Team:**  
 Samuel Martin, Steven De Jesus, Wilfredo Cedano Ventura, William Hite
 
-### Abstract  
+### Abstract:
 As inflation rises, managing finances has become increasingly difficult, especially for college students with limited or inconsistent sources of income. Finora is intended to help lessen this burden by providing a student-focused financial management system. Its primary purpose is to help college students better understand their financial situation, manage their available funds, and develop responsible spending and saving habits, creating a stronger foundation for financial confidence.
 
 Through Finora, students will be able to track and categorize expenses and income, including wages, financial aid, scholarships, and other sources of funds. They will also be able to view detailed spending breakdowns, create budgets, establish savings goals, and monitor their financial progress. One of Finora’s key features will be financial warnings that help students understand how much money remains available after accounting for recurring and nonrecurring expenses. By providing a clearer view of where their money is going and how much they can safely spend, Finora aims to help students balance everyday needs and wants, maintain better control of their finances, and make more confident financial decisions.
 
-### Description  
+### Description:
 As the cost of everyday necessities continues to rise, managing finances has become increasingly challenging. College students are being particularly affected by these challenges as they often have limited income while still shouldering a variety of expenses. Many students work part-time while attending school, which can limit their income. At the same time, expenses such as housing, food, transportation, tuition, textbooks, school supplies, subscriptions, and entertainment can quickly consume their available capital. Students may also have limited independent experience managing their finances, making it difficult to determine how much they can safely spend while still preparing for future expenses.
 
 The financial situation of a college student also differs from that of someone working a traditional full-time job. While some students receive regular income from employment, others rely on a combination of part-time work, financial aid, scholarships, family assistance, and other, possibly irregular, sources of income. Without proper planning, funds intended to support the student throughout the semester may be spent too quickly, potentially leading to financial difficulties.
@@ -26,7 +26,7 @@ Personal finance and budgeting solutions already exist and offer a range of usef
 
 Finora is intended to do more than record what students have already spent. The project aims to help students understand their current financial position and make better decisions about what they can afford moving forward. By combining income and expense tracking, budgeting, savings goals, spending analysis, recurring expense management, and financial warnings within a student-focused experience, Finora gives students greater clarity and control over their finances. Ultimately, Finora seeks to encourage healthier financial habits and help students balance everyday needs, personal enjoyment, academic responsibilities, and future financial goals.
 
-### Features List 
+### Features List:
    **Must Have By The End of the Semester**
 
 | **User Account and Login** | Create a personal account, log in, log out, and keep financial information associated with their account. |
@@ -69,7 +69,7 @@ Finora is intended to do more than record what students have already spent. The 
 | **Receipt Scanning** | Allow users to capture receipts and automatically create expense entries from them. |
 | **Predictive Financial Planning** | Estimate future balances and warn users about potential shortages before they occur. |
 
-### Initial Set of Technologies
+### Initial Set of Technologies:
 
 * Platform: Web application for desktop and phone.  
 * Operating system: Windows.  
@@ -83,26 +83,26 @@ Finora is intended to do more than record what students have already spent. The 
 * how the team plans to use AI:  
   * All team members will use the same ChatGPT’s Free plan.
 
-### Server Info
+### Server Info:
 
 Finora’s backend will be hosted by Supabase using the free plan. Supabase’s PostgreSQL database will be used to store any necessary user information. Supabase will also be used to handle user authentication.
 
-### Data Sources
+### Data Sources:
 
 Since Finora will track users' financial status and help them budget, it will require access to their financial data. Finora will not have direct access to users' bank information, as that is outside the scope of this semester's project. Instead, Finora will use data entered manually by the user. There will be no initial data set, only what users give the website after it is live.
 
-### AI Statement
+### AI Statement:
 We plan to use AI primarily as an advisory resource and to bounce ideas off of. We plan on using ChatGPT’s free plan.
 
-### Team Backgrounds
+### Team Backgrounds:
 
-**Wilfredo Cedano Ventura:** I have experience using Visual Studio Code, TypeScript, and SQL. Have a basic understanding of HTML and CSS. No experience with React, Next.js, and Vercel.
+* **Wilfredo Cedano Ventura:** I have experience using Visual Studio Code, TypeScript, and SQL. Have a basic understanding of HTML and CSS. No experience with React, Next.js, and Vercel.
 
-**Samuel Martin:** Some experience in designing databases and writing SQL. Never formally learned CSS or HTML, but has used them alongside Bootstrap to create a functioning webpage. No experience with Supabase, Vercel, or any equivalent tool.
+* **Samuel Martin:** Some experience in designing databases and writing SQL. Never formally learned CSS or HTML, but has used them alongside Bootstrap to create a functioning webpage. No experience with Supabase, Vercel, or any equivalent tool.
 
-**William Hite:** I haven’t really used Visual Studio Code or SQL, but I have a basic familiarity with HTML and CSS. I have not used React, Next.js, or Vercel.
+* **William Hite:** I haven’t really used Visual Studio Code or SQL, but I have a basic familiarity with HTML and CSS. I have not used React, Next.js, or Vercel.
 
-**Steven De Jesus** I have moderate experience using Visual Studio Code and SQL, along with a basic understanding of Typescript and CSS. No experience with React, NextJS, or Vercel.
+* **Steven De Jesus** I have moderate experience using Visual Studio Code and SQL, along with a basic understanding of Typescript and CSS. No experience with React, NextJS, or Vercel.
 
 ### Dependencies and Limitations:
 
