@@ -37,7 +37,7 @@ One of the most important goals of Finora is to help students distinguish betwee
 | **Visual Spending Breakdown** | Display understandable charts or summaries showing spending by category and income versus expenses. |
 | **Transaction History & Management** | View previous transactions and correct or remove entries when necessary.. |
 | **Financial Warnings** | Warn the user when they are approaching or exceeding a budget or when their spending is greater than their income. |
-| **Search and filtering**  | UUsers will be able to search and filter transactions by criteria such as date, category, and transaction type.  |
+| **Search and filtering**  | Users will be able to search and filter transactions by criteria such as date, category, and transaction type.  |
 
    **Will Have if There is Time**
 
