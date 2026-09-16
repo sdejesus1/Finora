@@ -4,31 +4,31 @@
 
 # Table of contents
 
-[**Abstract	3**](#abstract)
+**Abstract**
 
-[**Tools & Technologies	4**](#tools-&-technologies)
+**Tools & Technologies**
 
-[**Requirement List	6**](#requirement-list)
+**Requirement List**
 
-[1\. User Account and Login:	6](#user-account-and-login:)
+1\. User Account and Login
 
-[2\. Navigation:	7](#navigation:)
+2\. Navigation
 
-[3\. Financial Dashboard:	8](#financial-dashboard:)
+3\. Financial Dashboard
 
-[4\. Transaction History and Management:	8](#transaction-history-and-management:)
+4\. Transaction History and Management
 
-[5\. Income Tracking:	15](#income-tracking:)
+5\. Income Tracking	
 
-[6\. Expense Tracking:	16](#expense-tracking:)
+6\. Expense Tracking
 
-[7\. Budget Planner:	17](#budget-planner:)
+7\. Budget Planner
 
-[8\. Recurring Expenses:	19](#recurring-expenses:)
+8\. Recurring Expenses
 
-[9\. Saving Goals:	19](#saving-goals:)
+9\. Saving Goals
 
-[10\. Financial Warnings (Budget Planner):	20](#financial-warnings-\(budget-planner\):)
+10\. Financial Warnings (Budget Planner)
 
 # 
 
